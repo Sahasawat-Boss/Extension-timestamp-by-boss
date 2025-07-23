@@ -7,8 +7,6 @@
 A lightweight VS Code extension to insert the current **date and time** with a single shortcut.  
 Created by Boss.
 
-![icon](https://raw.githubusercontent.com/Sahasawat-Boss/timestamp-by-boss/main/icon.png)
-
 ---
 
 ## ✨ Features
