@@ -1,5 +1,8 @@
 # ⏱️ timestamp-by-boss
 
+<img width="492" height="166" alt="image" src="https://github.com/user-attachments/assets/3be14cea-cff7-4c58-afe5-3cd51a487125" />
+
+
 https://marketplace.visualstudio.com/search?term=timestamp%20by%20boss&target=VSCode&category=All%20categories&sortBy=Relevance
 
 A lightweight VS Code extension to insert the current **date and time** with a single shortcut.  
