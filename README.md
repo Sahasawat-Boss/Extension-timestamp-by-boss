@@ -27,9 +27,9 @@ Created by Boss.
 1. Open any file in VS Code
 2. Place your cursor where you want the timestamp
 3. Press `Ctrl + Shift + T`  
-   or use `Ctrl + Shift + P` → Search: `Insert Timestamp`
+    or use `Ctrl + Shift + P` → Search: `Insert Timestamp`
 4. ✅ Done! You’ll see something like:  
-   `23/07/2025 21:40:41`
+    `23/07/2025 21:40:41`
 
 ---
 
