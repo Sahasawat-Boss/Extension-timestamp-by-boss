@@ -2,7 +2,7 @@
   "name": "timestamp-by-boss",
   "displayName": "timestamp by boss",
   "description": "Insert current date and time using shortcut by boss",
-  "icon": "icon.png",
+  "publisher": "bossdev",
   "repository": {
   "type": "git",
   "url": "https://github.com/Sahasawat-Boss/timestamp-by-boss"
