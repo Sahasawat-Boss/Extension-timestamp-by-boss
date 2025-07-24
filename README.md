@@ -30,6 +30,15 @@ Created by Boss.
     `23/07/2025 21:40:41`
 
 ---
+## 🛠️ Customize the Shortcut
+If Ctrl + Shift + T feels hard to press or conflicts with another extension,
+you can easily change the shortcut key:
+
+1. Press Ctrl + Shift + P to open the Command Palette
+2. Type Insert Timestamp and select the command
+3. Click the ⚙️ gear icon next to it → choose "Change Keybinding"
+4. Set your preferred shortcut
+5. Now you can insert timestamps even more comfortably 🚀
 
 ## 📥 Installation
 
