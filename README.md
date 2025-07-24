@@ -2,7 +2,8 @@
 
 <img width="492" height="166" alt="image" src="https://github.com/user-attachments/assets/3be14cea-cff7-4c58-afe5-3cd51a487125" />
 
-[Download at VSCODE market place](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
+
+[ดาวน์โหลดที่ VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
 VS Code extension สำหรับที่ช่วยแทรก วันที่และเวลา ปัจจุบันได้ทันทีด้วยคีย์ลัด
 Created by Boss.
