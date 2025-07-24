@@ -4,48 +4,46 @@
 
 [Download at VSCODE market place](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
-A lightweight VS Code extension to insert the current **date and time** with a single shortcut.  
+VS Code extension สำหรับที่ช่วยแทรก วันที่และเวลา ปัจจุบันได้ทันทีด้วยคีย์ลัด
 Created by Boss.
 
 ---
 
-## ✨ Features
-
-- 📅 Insert current **date and time** instantly
-- 🧠 Uses your **local time zone** (`th-TH`)
-- 💡 Works in any file: JS, TS, Markdown, HTML, etc.
-- ⚡ Shortcut: `Ctrl + Shift + T`
-
-- 🧭 Also accessible via `Ctrl + Shift + P` → “Insert Timestamp”
+## ✨ ฟีเจอร์
+- แทรก วันที่และเวลา ปัจจุบันได้ทันที
+- ใช้โซนเวลาเครื่องของคุณ (th-TH)
+- ใช้งานได้กับทุกไฟล์ เช่น JS, TS, Markdown, HTML ฯลฯ
+- คีย์ลัด: Ctrl + Shift + T
+- หรือจะเข้าผ่าน Ctrl + Shift + P → “Insert Timestamp” ก็ได้
 
 ---
 
-## ⌨️ How to Use
+## ⌨️ วิธีใช้งาน
 
-1. Open any file in VS Code
-2. Place your cursor where you want the timestamp
-3. Press `Ctrl + Shift + T`  
-    or use `Ctrl + Shift + P` → Search: `Insert Timestamp`
-4. ✅ Done! You’ll see something like:  
-    `23/07/2025 21:40:41`
-
+1. เปิดไฟล์ใดก็ได้ใน VS Code
+2. วางเคอร์เซอร์ในตำแหน่งที่ต้องการแทรกเวลา
+3. กด Ctrl + Shift + T
+   หรือใช้ Ctrl + Shift + P → ค้นหา Insert Timestamp
+4. ✅ เสร็จแล้ว! คุณจะเห็นข้อความแบบนี้: 23/07/2025 21:40:41
+   
 ---
-## 🛠️ Customize the Shortcut
-If Ctrl + Shift + T feels hard to press or conflicts with another extension,
-you can easily change the shortcut key:
 
-1. Press Ctrl + Shift + P to open the Command Palette
-2. Type Insert Timestamp and select the command
-3. Click the ⚙️ gear icon next to it → choose "Change Keybinding"
-4. Set your preferred shortcut
-5. Now you can insert timestamps even more comfortably 🚀
+## 🛠️ ปรับแต่งคีย์ลัดได้ตามใจ
+ถ้ารู้สึกว่า Ctrl + Shift + T กดยาก หรือชนกับส่วนขยายอื่น
+สามารถเปลี่ยนคีย์ลัดได้ง่าย ๆ:
 
-## 📥 Installation
+1. กด Ctrl + Shift + P เพื่อเปิด Command Palette
+2. พิมพ์ Insert Timestamp และเลือกคำสั่ง
+3. คลิกที่ไอคอน ⚙️ → เลือก "Change Keybinding"
+4. ตั้งคีย์ลัดที่คุณต้องการ
+5. จากนี้ไปจะใส่ timestamp ได้สะดวกกว่าเดิม 🚀
 
-From VS Code Marketplace:  
+## 📥 การติดตั้ง
+
+ติดตั้งจาก VS Code Marketplace:
 👉 [timestamp-by-boss](https://marketplace.visualstudio.com/items?itemName=bossdev.timestamp-by-boss)
 
-Or install manually:
+หรือติดตั้งเองด้วยคำสั่ง:
 
 ```bash
 code --install-extension bossdev.timestamp-by-boss
